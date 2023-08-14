@@ -1,5 +1,0 @@
-{{#user}
-Name: Shravani Kale
-Skills: HTML, CSS, JS, Next.js, Python, DBMS, PHP
-Email: kaleshravani84@gmail.com
-{{/user}}
